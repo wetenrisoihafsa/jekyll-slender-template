@@ -10,7 +10,7 @@ title: My Team
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Jannik Richter, jannik811@gmail.com
-baseurl: /kelompok-ku.gihub.io
+baseurl: "/kelompok-ku.gihub.io"
 url: "http://kelompok-ku.github.io"
 twitter_username: jekyllrb
 github_username:  jekyll
